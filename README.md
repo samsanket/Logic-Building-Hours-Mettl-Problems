@@ -35,3 +35,17 @@ https://tests.mettl.com/authenticateKey/8c1f2ae
 https://tests.mettl.com/authenticateKey/f390cadf
 
 https://tests.mettl.com/authenticateKey/34fdaa41
+
+
+
+# Day 7 Problems
+
+
+Number of Primes in a specified range   Link: https://tests.mettl.com/authenticateKey/87c41143
+
+All Digits Count                        Link :https://tests.mettl.com/authenticateKey/ed6b4da
+
+Unique Digits Count                     Link: https://tests.mettl.com/authenticateKey/b7aac4a5
+
+Non-Repeated Digits’ Count              Link : https://tests.mettl.com/authenticateKey/e46500f5
+
