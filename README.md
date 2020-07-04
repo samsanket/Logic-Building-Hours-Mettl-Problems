@@ -1,9 +1,17 @@
 # Logic-Building-Hours-Mettl-Problems
 
+# Day4 Problems
 
-1.Sum of last digits of two given numbers
+Is Even?   https://tests.mettl.com/authenticateKey/2bd025dc
 
-Link : https://tests.mettl.com/authenticateKey/783a1fcf
+Is Odd? https://tests.mettl.com/authenticateKey/dbdac2a9
+
+Return last digit of the given number https://tests.mettl.com/authenticateKey/454f012b
+
+Return second last digit of given number https://tests.mettl.com/authenticateKey/9f87004e
+
+Sum of last digits of two given numbers https://tests.mettl.com/authenticateKey/783a1fcf
+
 
 
 # Day 6 Problems
