@@ -56,6 +56,19 @@ Non-Repeated Digits’ Count              Link : https://tests.mettl.com/authent
 
 
 digitSum : sum of all digits in N , https://tests.mettl.com/authenticateKey/ab1d60cc
+
 digitSum even: sum of even digits in N , https://tests.mettl.com/authenticateKey/b55d1714
+
 digitSum odd: sum of odd digits in N , https://tests.mettl.com/authenticateKey/738fdee0
+
 digitSum opt: sum of even or odd digits , https://tests.mettl.com/authenticateKey/a05abbcf
+
+# Day 9 Problems
+
+Is Palindrome Number? https://tests.mettl.com/authenticateKey/28c41d9d
+
+Is Palindrome Possible? https://tests.mettl.com/authenticateKey/f4fdb02
+
+Create PIN using alpha, beta, gamma https://tests.mettl.com/authenticateKey/be582d9f
+
+Weight of a hill pattern https://tests.mettl.com/authenticateKey/d612c0e6
